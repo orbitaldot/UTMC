@@ -30,7 +30,7 @@ Download "UTMC.zip" from the latest release to follow the instructions.
 - A super cool-looking lava effect
 - Sparkly crystals
 
-There is no goal/engame.
+There is no goal/endgame.
 
 <img src="images/inventory.png" width="320">
 
