@@ -6,7 +6,7 @@ Attempt at using Undertale's RPG "engine" for a sandbox mining game.
 
 You need to own a copy of UNDERTALE v1.08 for this.
 
-Download "UTMC.zip" from the latest release to follow the instructions.
+Download "UTMC-v1.0.0.zip" from the latest release to follow the instructions.
 
 1. Open DeltaPatcherLite.exe (included in the zip file)
 2. For "Original File", pick the data.win file of your UNDERTALE installation (which, on Windows, should be in `C:\Program Files (x86)\Steam\steamapps\common\Undertale`).
