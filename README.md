@@ -1,6 +1,8 @@
 Undertale but it's a mining sandbox with chunk-based world generation???
 
+<center>
 <img src="images/minecart.png" width="320">
+</center>
 
 ## Installation
 
@@ -16,7 +18,9 @@ Download "UTMC-v1.0.0.zip" from the latest release to follow the instructions.
 > [!CAUTION]
 > Backup your Undertale save files before running the game (look up other guides for this)
 
+<center>
 <img src="images/lava.png" width="320">
+</center>
 
 ## Features
 
@@ -32,7 +36,9 @@ Download "UTMC-v1.0.0.zip" from the latest release to follow the instructions.
 
 There is no goal/endgame.
 
+<center>
 <img src="images/inventory.png" width="320">
+</center>
 
 ## Known issues
 
