@@ -1,0 +1,16 @@
+CHUNKX = 0
+CHUNKY = 0
+chunktemp[15] = 0
+CHUNKDATA[11] = chunktemp
+alarm[0] = 1
+active = false
+loaded = false
+blocksprites[0] = -1
+blocksprites[1] = 2584
+blocksprites[2] = 2583
+blocksprites[3] = 2585
+blocksprites[4] = 2587
+blocksprites[5] = 2590
+blocksprites[6] = 2591
+blocksprites[7] = 2595
+depth = 300
