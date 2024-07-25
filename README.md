@@ -1,4 +1,4 @@
-Attempt at using Undertale's RPG "engine" for a sandbox mining game.
+Undertale but it's a mining sandbox with chunk-based world generation???
 
 <img src="images/minecart.png" width="320">
 
