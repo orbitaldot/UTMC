@@ -6,8 +6,8 @@ Undertale but it's a mining sandbox with chunk-based world generation???
 </p>
 
 > [!NOTE] 
-> The `.gml` files in `/scripts` & `/objects` don't compile to anything, and code snippets modded into other UNDERTALE scripts & objects are missing too. They're only present to give an idea of how this was done.
-> 
+> The source files don't compile to anything, and code snippets modded into other UNDERTALE scripts & objects are missing too. They're only present to give an idea of how this was done.
+
 ## Installation
 
 You need to own a copy of UNDERTALE v1.08 for this.
