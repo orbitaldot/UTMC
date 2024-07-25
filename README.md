@@ -1,7 +1,7 @@
 This is a mod for Undertale v1.08 that I threw together in order to properly learn [UndertaleModTool](https://github.com/krzys-h/UndertaleModTool) and to explore the extent of what is possible with it.  
 Essentially, it's an experimental attempt at using Undertale's RPG "engine" for a sandbox mining game.
 
-![Minecarts & Rails](images/minecart.png | width=100)
+<img src="images/minecart.png" width="320">
 
 ## Installation
 
@@ -11,6 +11,8 @@ Download "UTMC.zip" from the latest release to follow the instructions.
 2. For "Original File", pick the data.win file of your UNDERTALE installation (which, on Windows, should be in `C:\Program Files (x86)\Steam\steamapps\common\Undertale`).
 3. For "XDelta patch", choose "UTMC.XDelta" from this download.
 4. Click "Apply Patch" and let the patcher do its thing.
+
+<img src="images/lava.png" width="320">
 
 ## Features
 
@@ -26,6 +28,7 @@ Download "UTMC.zip" from the latest release to follow the instructions.
 
 There is no goal/engame.
 
+<img src="images/inventory.png" width="320">
 
 ## Known issues
 
