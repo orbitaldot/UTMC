@@ -14,7 +14,7 @@ Download "UTMC-v1.0.0.zip" from the latest release to follow the instructions.
 4. Click "Apply Patch" and let the patcher do its thing.
 
 > [!CAUTION]
-> Before running the game, backup your Undertale save files just in case (look up other guides for this)
+> Backup your Undertale save files before running the game (look up other guides for this)
 
 <img src="images/lava.png" width="320">
 
