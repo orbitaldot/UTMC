@@ -39,4 +39,4 @@ There is no goal/engame.
 - Minecarts & rails like to misbehave sometimes.
 - The camera lags behind when the screen is shaking.
 - While the mod allows you to start regular Undertale, the item amount system may render the game unplayable. I'm thinking of turning the item amount system into an own - stand-alone mod, compatible with the normal game.
-- Existing minecarts aren't saved when the game closes. Always make sure to break your carts after using them.
+- Existing minecarts aren't saved when the game closes.
